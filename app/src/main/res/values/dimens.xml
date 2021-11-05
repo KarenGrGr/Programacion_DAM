@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height_image_top">120dp</dimen>
+    <dimen name="card_height">120dp</dimen>
+    <dimen name="padding_height">10dp</dimen>
+    <dimen name="icon_width">50dp</dimen>
+</resources>
